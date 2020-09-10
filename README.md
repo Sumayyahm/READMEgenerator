@@ -36,7 +36,7 @@
   
   # Walk through videos
   
-  <iframe src='//gifs.com/embed/readme-XLWYXl' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+<div style='position:relative;padding-bottom:56.313%;'><iframe src="//gifs.com/embed/readme-XLWYXl" frameborder="0" scrolling="no" width="792" height="446" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
   
   
     
