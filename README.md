@@ -36,7 +36,7 @@
   
   # Walk through videos
   
-  [video1](https://j.gifs.com/XLWYXl.gif)
+  ![video1](https://j.gifs.com/XLWYXl.gif)
   
   
     
