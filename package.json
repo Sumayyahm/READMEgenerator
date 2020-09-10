@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +14,8 @@
     "type": "git",
     "url": "git+https://github.com/Sumayyahm/READMEgenerator.git"
   },
-  "author": "SumayyahM",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sumayyahm/READMEgenerator/issues"
   },

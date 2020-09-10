@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-
+const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
 const questions = [
@@ -26,7 +26,7 @@ const questions = [
       },
 
       {
-        type: "checkbox",
+        type: "list",
         message: "Choose your license",
         name: "License",
         choices : [
@@ -66,7 +66,8 @@ function writeToFile(filename, data) {
 function init() {
     inquirer.prompt(questions)
     .then(function(answers) {
-       
+        const readme = generateMarkdown(answers);
+        writeToFile("README.md", readme);
     });
 
 
