@@ -34,9 +34,25 @@
 
   ![image](https://user-images.githubusercontent.com/66535567/92774076-beb37d00-f362-11ea-9804-d3589ddbdd10.png)  
   
+  ![image](https://user-images.githubusercontent.com/66535567/92799951-da764d80-f379-11ea-904f-fb3ba88f4941.png)
+  
+  ![image](https://user-images.githubusercontent.com/66535567/92800276-27f2ba80-f37a-11ea-9b3d-c585feb2e665.png)
+  
+  ![image](https://user-images.githubusercontent.com/66535567/92800391-435dc580-f37a-11ea-8a53-603e55e7c154.png)
+  
   # Walk through videos
   
   ![video1](https://j.gifs.com/XLWYXl.gif)
+  
+  ![video2](https://j.gifs.com/71RDz8.gif)
+  
+  ![video3](https://j.gifs.com/VARJrB.gif)
+  
+  ![video4](https://j.gifs.com/wV1n8g.gif)
+  
+  
+  
+  
   
   
     
